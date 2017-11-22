@@ -14,7 +14,7 @@
     "react",
     "react-native",
     "react-component",
-    "meiqia",
+    "meiqia"
   ],
   "peerDependencies": {
     "react": ">=15.3.1",
